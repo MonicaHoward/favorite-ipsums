@@ -16,11 +16,11 @@ class Navbar extends Component {
                                 </li>
                                 <li className="nav-item">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Ipsums
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="">Bacon Ipsum</a>
-        </div>
+                                Ipsums
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="">Bacon Ipsum</a>
+                                </div>
                                 </li>
                                 <li className="nav-item">
                                 <a className="nav-link" href="contact.html">Contact</a>
